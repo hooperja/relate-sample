@@ -1,7 +1,7 @@
 chunks:
 
 -
-    title: "Welcome to the sample course"
+    title: "Mr. Hooper Sample Activities"
     id: welcome
     rules:
     -
@@ -24,6 +24,9 @@ chunks:
         You can also jump directly to the [sample quiz](flow:quiz-test).
 
         Look at the amazing embedded [PDF](repocur:pdfs/sample.pdf).
+        
+        Here is a new activity:
+        <a href="flow:newquiz" role="button" class="btn btn-default">Activity #1</a>.
 
         In addition to interactive content, RELATE also supports [static (i.e.
         non-interactive) pages](staticpage:test).
