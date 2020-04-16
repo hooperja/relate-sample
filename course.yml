@@ -15,7 +15,8 @@ chunks:
     content: |
 
         # Hi how's it going?
-
+        
+        [I'm an inline-style link with title](https://mybinder.org/v2/gh/hooperja/jupyter/master?filepath=Shooting%20Freethrows.ipynb "Jupyter Notebook")
         Check out the [linear algebra recap](flow:001-linalg-recap). Do it now. Do it.
 
         You can also go there using a
