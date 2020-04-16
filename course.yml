@@ -17,6 +17,9 @@ chunks:
         # Hi how's it going?
         
         [I'm an inline-style link with title](https://mybinder.org/v2/gh/hooperja/jupyter/master?filepath=Shooting%20Freethrows.ipynb "Jupyter Notebook")
+        
+        Here it is in html: <a href="https://mybinder.org/v2/gh/hooperja/jupyter/master?filepath=Shooting%20Freethrows.ipynb" target="_blank">Binder link</a>
+        
         Check out the [linear algebra recap](flow:001-linalg-recap). Do it now. Do it.
 
         You can also go there using a
